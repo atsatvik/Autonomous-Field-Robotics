@@ -1,0 +1,2 @@
+- Just upload all the images except "clean_stitch.jpg" and run each cell in the notebook in google colab. 
+- Theres a clean stitch that I got using an inefficient approach, the code for which is commented in the panorama function in the python notebook.
